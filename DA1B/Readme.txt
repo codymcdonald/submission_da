@@ -8,4 +8,4 @@ Primary Github Address: https://github.com/elev8rProcrastinator/submission_da
 
 Directory: https://github.com/elev8rProcrastinator/submission_da/tree/master/DA1B
 
-Video: https://youtu.be/s5nH4GjsNuw
+Video: N/A
