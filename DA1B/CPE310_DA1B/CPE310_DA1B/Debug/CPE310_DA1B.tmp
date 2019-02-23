@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\Debug\CPE310_DA1B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CPE310_DA1B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CPE310_DA1B.map</FILE>
+  <FILE>CPE310_DA1B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INCREMENT1><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>33</LINE></INCREMENT1>
+  <STORENUM><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>43</LINE></STORENUM>
+  <INCREMENT2><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>39</LINE></INCREMENT2>
+  <DIV3><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>53</LINE></DIV3>
+  <PROB3><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>78</LINE></PROB3>
+  <DIVIDE><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>60</LINE></DIVIDE>
+  <divisible_store><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>67</LINE></divisible_store>
+  <negative_store><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>72</LINE></negative_store>
+  <SUMY><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>85</LINE></SUMY>
+  <SUMZ><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>94</LINE></SUMZ>
+  <end><FILE>c:\users\cody\Documents\Atmel Studio\7.0\CPE310_DA1B\CPE310_DA1B\main.asm</FILE><LINE>104</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
