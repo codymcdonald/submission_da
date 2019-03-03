@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Cody\Documents\Atmel Studio\7.0\CPE301_DA2\CPE301_DA2_assembly_task2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Cody\Documents\Atmel Studio\7.0\CPE301_DA2\CPE301_DA2_assembly_task2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Cody\Documents\Atmel Studio\7.0\CPE301_DA2\CPE301_DA2_assembly_task2\Debug\CPE301_DA2_assembly_task2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CPE301_DA2_assembly_task2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CPE301_DA2_assembly_task2.map</FILE>
+  <FILE>CPE301_DA2_assembly_task2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <AGAIN><FILE>C:\Users\Cody\Documents\Atmel Studio\7.0\CPE301_DA2\CPE301_DA2_assembly_task2\main.asm</FILE><LINE>23</LINE></AGAIN>
+  <OVER><FILE>C:\Users\Cody\Documents\Atmel Studio\7.0\CPE301_DA2\CPE301_DA2_assembly_task2\main.asm</FILE><LINE>37</LINE></OVER>
+  <DELAY><FILE>C:\Users\Cody\Documents\Atmel Studio\7.0\CPE301_DA2\CPE301_DA2_assembly_task2\main.asm</FILE><LINE>41</LINE></DELAY>
+  <BODY><FILE>C:\Users\Cody\Documents\Atmel Studio\7.0\CPE301_DA2\CPE301_DA2_assembly_task2\main.asm</FILE><LINE>47</LINE></BODY>
+ </LABELS>
+</ASSEMBLER_INFO>
